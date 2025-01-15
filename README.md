@@ -8,7 +8,7 @@ Vous retrouverez mon portfolio contenants différents projets sur lesquels j'ai 
 - Licence Mathématiques et Informatique Appliquées aux Sciences Humaines et Sociales 
 Option Statistique Inférentielles | Université Paris 1 Panthéon-Sorbonne (_Mai 2025_)	
 				       	
-- Baccalauréat Scientifique, Spécialité Mathématiques | Lycée Pierre Corneille (_Juin 2020_)
+- Baccalauréat Scientifique, Spécialité Mathématiques | Lycée Pierre Corneille (_Juin 2021_)
 
 ## EXPÉRIENCES PROFESSIONNELLES
 
@@ -18,8 +18,11 @@ Option Statistique Inférentielles | Université Paris 1 Panthéon-Sorbonne (_M
 
 **Professeur d’informatique | Algora School : École d’éducation numérique (_Novembre 2022 - Juin 2023_)**
 - Préparer et animer des formations d’initiation à la robotique 
-- 
 
+  
+**Équipier polyvalent | Mongoo : Salade sur mesure (_Juin 2021 – Novembre 2022_)**
+- Vente, préparation de salade et gestion du restaurant
+ 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
