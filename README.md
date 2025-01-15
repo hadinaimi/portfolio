@@ -2,14 +2,16 @@
 Vous retrouverez mon portfolio contenants différents projets sur lesquels j'ai travaillé
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, R, Java, .NET, Acess, Macro VBA, Javascript, Snowflake, MATLAB, HTML, CSS,
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Formations
+- Licence Mathématiques et Informatique Appliquées aux Sciences Humaines et Sociales 
+Option Statistique Inférentielles | Université Paris 1 Panthéon-Sorbonne (_Mai 2025_)	
+				       	
+- Baccalauréat Scientifique, Spécialité Mathématiques | Lycée Pierre Corneille (_Juin 2020_)
 
-## Work Experience
+## EXPÉRIENCES PROFESSIONNELLES
+
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
