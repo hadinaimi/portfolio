@@ -2,7 +2,7 @@
 Vous retrouverez mon portfolio contenants différents projets sur lesquels j'ai travaillé
 # Data Scientist
 
-#### Technical Skills: Python, SQL, R, Java, .NET, Acess, Macro VBA, Javascript, Snowflake, MATLAB, HTML, CSS,
+#### Technical Skills: Python, SQL, R, Java, .NET, Acess, Macro VBA, Javascript, MATLAB, HTML, CSS,
 
 ## Formations
 - Licence Mathématiques et Informatique Appliquées aux Sciences Humaines et Sociales 
@@ -12,13 +12,13 @@ Option Statistique Inférentielles | Université Paris 1 Panthéon-Sorbonne (_M
 
 ## EXPÉRIENCES PROFESSIONNELLES
 
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Webmaster | WordAppeal by LVMH : Premium Newsroom (_Octobre 2023 – Juin 2024_)**
+- Saisie et mise à jour de données dans des systèmes informatiques selon les directives.
+- Intégration et modification de contenu dans des plateformes internes et suivi des projets via Microsoft Excel et Google Sheets.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Professeur d’informatique | Algora School : École d’éducation numérique (_Novembre 2022 - Juin 2023_)**
+- Préparer et animer des formations d’initiation à la robotique 
+- 
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
